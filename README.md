@@ -1,5 +1,5 @@
-#Vending Machine
-##Just Launched My First Coding Project! 
+# Vending Machine
+## Just Launched My First Coding Project! 
 
 I'm thrilled to share my debut coding project with you all – a simple terminal-based vending machine programmed in C! 
 
